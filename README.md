@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./WriteUpImages/TraingLossVSValidationLoss.png "Model Visualization"
+[image1]: ./WriteUpImages/TraingLossVSValidationLoss.PNG "Model Visualization"
 [image2]: ./WriteUpImages/cnn-architecture-624x890.png "Nvidia Model"
 [image3]: ./WriteUpImages/CenterDriving.png "CenterDriving"
 [image4]: ./WriteUpImages/Recovery.png "Recovery Image"
