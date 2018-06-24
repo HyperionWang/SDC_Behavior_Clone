@@ -5,6 +5,8 @@
 
 **Behavioral Cloning Project**
 
+![Results][image7]
+
 The goals / steps of this project are the following:
 * Use the simulator to collect data of good driving behavior
 * Build, a convolution neural network in Keras that predicts steering angles from images
@@ -21,8 +23,8 @@ The goals / steps of this project are the following:
 [image4]: ./WriteUpImages/Recovery.png "Recovery Image"
 [image5]: ./WriteUpImages/Recovery2.png "Recovery Image"
 [image6]: ./WriteUpImages/RightSideDriving.PNG "Normal Image"
-[video1]: ./Track1.mp4 "Self-Driving on Track 1"
-[video2]: ./Track2.mp4 "Self-Driving on Track 2"
+
+[image7]: ./WriteUpImages/Demo.gif "Normal Image"
 
 ---
 ### Files Submitted & Code Quality
@@ -146,8 +148,8 @@ I used this training data for training the model. The validation set helped dete
 
 The following video showing the car driving at the full speed on the first track, and driving with 15 Mph on the second track almost forever with no "accident".
 
-![Video: Self-driving on Track1][video1]
+[![Self Driving Behavior Cloning Track 1](http://img.youtube.com/vi/cWbxyaj9gsc/0.jpg)](http://www.youtube.com/watch?v=cWbxyaj9gsc "Self Driving Behavior Cloning Track 1")
 
-![Video: Self-driving on Track2][video2]
+[![Self Driving Behavior Cloning Track 2](http://img.youtube.com/vi/14vTI4GV_Wg/0.jpg)](http://www.youtube.com/watch?v=14vTI4GV_Wg "Self Driving Behavior Cloning Track 2")
 
 The model could successfully run on both tracks. The first track with full speed, and the second track with 15 MPH. It is a really fun and rewarding project! I really enjoyed the skills I learn, and the final results I got for this project.
